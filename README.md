@@ -1,4 +1,4 @@
-# Submission Bookshelf API (Belajar Membuat Aplikasi Back-End untuk Pemula)
+# Submission Bookshelf API (Apps)
 <h5> Aplikasi penyimpanan buku menggunakan Framework Hapi.js </h5>
 <h5> Live Preview : </h5>
 https://ricoagista.me/JS-Bookshelf-Apps/
